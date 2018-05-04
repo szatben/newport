@@ -1,0 +1,122 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bendeguzszatmar.com" resolutions="1x" timestamp="1525399024801">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="447778931" ref="pit:images:shorts:info:suburb:interaction"/>
+    <file name="master_a-master.css" crc="4219726189" ref="interaction2:about:shorts2:pit-railways2:suburbia2:home"/>
+    <file name="master_b-master-2.css" crc="3974834360" ref="index"/>
+    <file name="index.css" crc="3759568161" ref="index"/>
+    <file name="pit.css" crc="4112046557" ref="pit"/>
+    <file name="interaction2.css" crc="3975044683" ref="interaction2"/>
+    <file name="images.css" crc="4174476032" ref="images"/>
+    <file name="about.css" crc="229971377" ref="about"/>
+    <file name="shorts.css" crc="4211205198" ref="shorts"/>
+    <file name="info.css" crc="124184180" ref="info"/>
+    <file name="suburb.css" crc="206825640" ref="suburb"/>
+    <file name="shorts2.css" crc="3943091352" ref="shorts2"/>
+    <file name="pit-railways2.css" crc="274067734" ref="pit-railways2"/>
+    <file name="suburbia2.css" crc="4067908002" ref="suburbia2"/>
+    <file name="interaction.css" crc="280940968" ref="interaction"/>
+    <file name="home.css" crc="229971377" ref="home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="museutils.js" crc="340535759" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="require.js" crc="7928878" ref="index:suburbia2:pit-railways2:interaction2:shorts2:about:interaction:shorts:images:info:pit:suburb:home"/>
+    <file name="webpro.js" crc="4059564322" ref="interaction2:interaction:shorts"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="interaction2:interaction:shorts"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="interaction2:interaction:shorts"/>
+    <file name="touchswipe.js" crc="4075097462" ref="interaction2:interaction:shorts"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:interaction2:interaction:shorts:home"/>
+    <file name="spaceshipinterior2258.jpg" crc="185859253" seo="true" ref="suburbia2:suburb">
+      <caption webpage="suburbia2" alt=""/>
+      <caption webpage="suburb" alt=""/>
+    </file>
+    <file name="spaceshipinterior1885.jpg" crc="3877112510" seo="true" ref="suburbia2:suburb">
+      <caption webpage="suburbia2" alt=""/>
+      <caption webpage="suburb" alt=""/>
+    </file>
+    <file name="spaceshipinterior3889.jpg" crc="3903189180" seo="true" ref="suburbia2:suburb">
+      <caption webpage="suburbia2" alt=""/>
+      <caption webpage="suburb" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080-crop-u451.jpg" crc="46467988" seo="true" ref="pit-railways2">
+      <caption webpage="pit-railways2" alt=""/>
+    </file>
+    <file name="img_8719-crop-u420.jpg" crc="293439487" seo="true" ref="pit-railways2">
+      <caption webpage="pit-railways2" alt=""/>
+    </file>
+    <file name="img_8712-crop-u435.jpg" crc="86057129" seo="true" ref="pit-railways2">
+      <caption webpage="pit-railways2" alt=""/>
+    </file>
+    <file name="img_8705-crop-u441.jpg" crc="508832774" seo="true" ref="pit-railways2">
+      <caption webpage="pit-railways2" alt=""/>
+    </file>
+    <file name="u422-7.png" crc="304960184" ref="pit-railways2"/>
+    <file name="u716.png" crc="3891292103" ref="interaction2"/>
+    <file name="u716-r.png" crc="4027610904" ref="interaction2"/>
+    <file name="artboard 3-crop-u1008.png" crc="148443505" seo="true" ref="interaction2">
+      <caption webpage="interaction2" alt=""/>
+    </file>
+    <file name="artboard 4-crop-u558.jpg" crc="3881762015" seo="true" ref="shorts2">
+      <caption webpage="shorts2" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080-crop-u568.jpg" crc="231589867" seo="true" ref="shorts2">
+      <caption webpage="shorts2" alt=""/>
+    </file>
+    <file name="u1566.png" crc="3891292103" ref="interaction"/>
+    <file name="u1566-r.png" crc="4027610904" ref="interaction"/>
+    <file name="artboard 3-crop-u1585.png" crc="238109560" seo="true" ref="interaction">
+      <caption webpage="interaction" alt=""/>
+    </file>
+    <file name="icon2-crop-u1646.jpg" crc="485544332" seo="true" ref="interaction">
+      <caption webpage="interaction" alt=""/>
+    </file>
+    <file name="t3m6wth-crop-u1834.jpg" crc="4072475911" seo="true" ref="interaction">
+      <caption webpage="interaction" alt=""/>
+    </file>
+    <file name="logo-crop-u1869.png" crc="70236153" seo="true" ref="interaction">
+      <caption webpage="interaction" alt=""/>
+    </file>
+    <file name="logo-crop-u1918.png" crc="70236153" seo="true" ref="interaction">
+      <caption webpage="interaction" alt=""/>
+    </file>
+    <file name="u1981.png" crc="3891292103" ref="shorts"/>
+    <file name="u1981-r.png" crc="4027610904" ref="shorts"/>
+    <file name="artboard 3-crop-u1996.png" crc="148443505" seo="true" ref="shorts">
+      <caption webpage="shorts" alt=""/>
+    </file>
+    <file name="icon2-crop-u2007.jpg" crc="485544332" seo="true" ref="shorts">
+      <caption webpage="shorts" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080-crop-u1799.jpg" crc="46467988" seo="true" ref="pit">
+      <caption webpage="pit" alt=""/>
+    </file>
+    <file name="img_8719-crop-u1792.jpg" crc="293439487" seo="true" ref="pit">
+      <caption webpage="pit" alt=""/>
+    </file>
+    <file name="img_8705-crop-u1797.jpg" crc="508832774" seo="true" ref="pit">
+      <caption webpage="pit" alt=""/>
+    </file>
+    <file name="img_8712-crop-u1794.jpg" crc="86057129" seo="true" ref="pit">
+      <caption webpage="pit" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="530634998" seo="true" mt="1525398906663" redirect="true"/>
+  <file name="suburbia2.html" crc="132082013" seo="true" mt="1525392477262" redirect="true"/>
+  <file name="pit-railways2.html" crc="413369674" seo="true" mt="1525387939430" redirect="true"/>
+  <file name="interaction2.html" crc="3779232242" seo="true" mt="1525387939430" redirect="true"/>
+  <file name="shorts2.html" crc="51957074" seo="true" mt="1525387939441" redirect="true"/>
+  <file name="about.html" crc="40883341" seo="true" mt="1525387939430" redirect="true"/>
+  <file name="interaction.html" crc="3982503686" seo="true" mt="1525398986770" redirect="true"/>
+  <file name="shorts.html" crc="4109023443" seo="true" mt="1525398988884" redirect="true"/>
+  <file name="images.html" crc="380254276" seo="true" mt="1525398994284" redirect="true"/>
+  <file name="info.html" crc="4135346147" seo="true" mt="1525398990436" redirect="true"/>
+  <file name="pit.html" crc="388063851" seo="true" mt="1525398906662" redirect="true"/>
+  <file name="suburb.html" crc="4153635322" seo="true" mt="1525398906662" redirect="true"/>
+  <file name="home.html" crc="341523183" seo="true" mt="1525398906667" redirect="true"/>
+</manifest>
